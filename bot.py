@@ -5,7 +5,7 @@ from aiohttp import (
 )
 from aiohttp_socks import ProxyConnector
 from fake_useragent import FakeUserAgent
-from curl_cffi import requests
+import requests
 from datetime import datetime
 from colorama import *
 import asyncio, time, base64, json, os, uuid, pytz
