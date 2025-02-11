@@ -1,8 +1,8 @@
 # Nodepay BOT
 Nodepay BOT
 
-- Register Here : [Nodepay](https://app.nodepay.ai/register?ref=MrqkZFlMPcg8ve2)
-- Use Code : MrqkZFlMPcg8ve2
+- Register Here : [Nodepay](https://app.nodepay.ai/register?ref=2K9Y1KXieUAKN96)
+- Use Code : 2K9Y1KXieUAKN96
 
 ## Features
 
@@ -23,10 +23,10 @@ Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and o
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/hobbit30/Nodepay.git
+   git clone https://github.com/DeepTV12/np.git
    ```
    ```bash
-   cd Nodepay
+   cd np
    ```
 
 2. **Install Requirements:**
@@ -61,15 +61,3 @@ Note: auto connects 3 connections if u using proxies choose [ 1 ] or [ 2 ] and o
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
-
-- **ETH:** 0x3Ccd36B5590B360e01b001bf7d077627F292BF02
-- **TON:** UQBNMJDaLlk48UJv8IdeRUO9w-RCnktF9lxjLtIzYZYiZ_JW
-- **SOL:** A4Z435kxMcy2L9HVidg7AUrToYHDVd1X2H8RucG5HukK
-
-## Notes
-Run this bot, use my referral code if you don't have one.
-You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot.
-This bot is for educational purposes only.
-
-**As@30**
